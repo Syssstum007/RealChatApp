@@ -68,3 +68,5 @@ npm run build
 ```shell
 npm start
 ```
+## Deployment
+The application is deployed on Render and can be accessed [here](https://real-chat-app-0w58.onrender.com).
